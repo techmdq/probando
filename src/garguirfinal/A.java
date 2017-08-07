@@ -8,6 +8,7 @@ public abstract class A implements Comparable {
 
     protected String cadena;
     protected int numero;
+    protected int probandoGit;
 
     public A(String cadena, int numero) {
         this.cadena = cadena;
